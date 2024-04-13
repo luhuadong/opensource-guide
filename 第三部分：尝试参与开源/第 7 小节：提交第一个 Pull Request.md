@@ -1,8 +1,8 @@
 # 第 7 小节：提交第一个 Pull Request
 
-```
+<!--
 merge pull request的流程相对简单，是通过两个自己项目的repo进行的阐述，需要补充权限说明，code review，approve，CI机制等  
-```
+-->
 
 ## 什么是 Pull Request
 
