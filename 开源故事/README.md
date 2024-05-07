@@ -9,7 +9,7 @@
 
 2. 投稿方式：  
 - 快捷入口>>[点我投稿故事](https://gitee.com/gitee-community/opensource-guide/new/master/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B)           
-   
+  
 3. 注意  
 - 标题需包含项目名，后缀为“.md ”，例如：子知鱼否与[开源/开源项目名]的故事.md
 - 故事字数：不少于200 字

@@ -4,7 +4,7 @@
 
 Issue 的翻译大致为**议题**、**问题**。
 
-![issue的翻译](https://images.gitee.com/uploads/images/2020/1103/095504_32fddf55_1277510.png "image-20201030195145149.png")
+![issue的翻译](./images/095504_32fddf55_1277510.png "image-20201030195145149.png")
 
 为了方便你理解，我们更愿意把它称之为**待办清单**、**问题或 Bug 列表**、**讨论版**等等。相信这些称呼会让你更容易理解什么是 Issue。
 
@@ -93,7 +93,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 在新建仓库时，勾选`使用Issue模板文件初始化这个项目`，实际上就是在仓库根目录下新建了 `.gitee/ISSUE_TEMPLATE.zh-CN.md` 文件，当然你也可以自己创建这个文件，来编写自己的模板。
 
-![选择使用模板来初始化项目](https://images.gitee.com/uploads/images/2020/1104/184559_3f5d281c_1277510.png "image-20201104183636294.png")
+![选择使用模板来初始化项目](./images/184559_3f5d281c_1277510.png "image-20201104183636294.png")
 
 自己创建 Issue 模板，可在仓库中创建`.gitee`目录，并创建对应的模板文件：
 
@@ -117,7 +117,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1SS5Z](https://gitee.com/sentsin/layui/issues/I1SS5Z)
 
-![无价值案例 1](https://images.gitee.com/uploads/images/2020/1103/095610_3fe4df54_1277510.png "image-20201102230656555.png")
+![无价值案例 1](./images/095610_3fe4df54_1277510.png "image-20201102230656555.png")
 
 该案例的标题仅两个字`表格`，作者如果不点进 Issue 的具体内容则无法获知到底这个 Issue 说的是什么。属于无价值案例。
 
@@ -125,7 +125,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1PQVC](https://gitee.com/sentsin/layui/issues/I1PQVC)
 
-![无价值案例 2](https://images.gitee.com/uploads/images/2020/1103/095627_8b4fadf6_1277510.png "image-20201102230927454.png")
+![无价值案例 2](./images/095627_8b4fadf6_1277510.png "image-20201102230927454.png")
 
 该案例最抓人眼球的应该是那一长串的`!`号，画面都快容不下了，而且作者在看这样的标题的时候也无法获知到底是个什么问题，有一种过分夸张的感觉。属于无价值案例。
 
@@ -135,7 +135,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1OFU3](https://gitee.com/sentsin/layui/issues/I1OFU3)
 
-![有价值案例 1](https://images.gitee.com/uploads/images/2020/1103/095655_074d520b_1277510.png "image-20201102231303010.png")
+![有价值案例 1](./images/095655_074d520b_1277510.png "image-20201102231303010.png")
 
 标题清晰明了，作者可以轻松获知 Issue 的主体内容。内容贴出了自己尝试的代码，便于作者提供帮助。属于有价值案例。
 
@@ -143,7 +143,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1OD1P](https://gitee.com/sentsin/layui/issues/I1OD1P)
 
-![有价值案例 2](https://images.gitee.com/uploads/images/2020/1103/095715_67d435b1_1277510.png "image-20201102231520201.png")
+![有价值案例 2](./images/095715_67d435b1_1277510.png "image-20201102231520201.png")
 
 该案例同样使用了清晰明了的标题表述形式，内容中还具体贴出了自己尝试的代码，便于作者提供帮助或定位问题。属于有价值案例。
 
@@ -163,21 +163,21 @@ Issue 的翻译大致为**议题**、**问题**。
 
 如果仓库是你自己的，你可以在每一个 Issue 的面板看到更多的进阶选项，如图所示：
 
-![Issue的进阶设置](https://images.gitee.com/uploads/images/2020/1104/121602_7f774b18_1277510.png "image-20201103110330425.png")
+![Issue的进阶设置](./images/121602_7f774b18_1277510.png "image-20201103110330425.png")
 
 * **负责人**：负责人指的是谁来负责处理这个 Issue，可以设置用户为负责人或协作者。对于个人版来说，只能选择自己。如果是组织或者企业，可以指派他人。同一个 Issue 仅能有一个负责人，但问题可能由多个人协作解决，所以可以添加多个协作者。其它权限是一样的。对于企业版用户来说，设置负责人可以很好地统计任务完成情况（个人版无此功能，因此负责人也可以不设置），如图所示：
 
-  ![组织或企业的负责人选择](https://images.gitee.com/uploads/images/2020/1104/121656_f6ccd9c7_1277510.png "image-20201103154930390.png")
+  ![组织或企业的负责人选择](./images/121656_f6ccd9c7_1277510.png "image-20201103154930390.png")
 
   企业版中可根据负责人统计任务完成信息：
 
-  ![企业版中可根据负责人统计任务完成信息](https://images.gitee.com/uploads/images/2020/1104/121732_dd5fd2c8_1277510.png "image-20201103155036529.png")
+  ![企业版中可根据负责人统计任务完成信息](./images/121732_dd5fd2c8_1277510.png "image-20201103155036529.png")
 
 * **标签**：高质量的 Issue 是项目成功的关键。有些人把 Issue 仅仅看作是一堆你不得不去处理的问题列表，但是如果这些问题单管理完善，进行了分类并打上标签，会令人意想不到的提升我们对代码和社区的了解程度，也让我们更清楚问题的关键点在哪里。<sup>[2]</sup>将标签完善之后，不管是仓库所有者还是其他人都可以快速定位含有某标签的 Issue，协作的效率也将大大提高。
 
   在 Gitee 中，Issue 中的**标签**支持修改原有标签名称、从其它项目导入标签以及新增自定义标签等。一个默认的仓库会有如下一些默认的标签<sup>[2]</sup><sup>[3]</sup>：
 
-  ![Issue中的默认标签](https://images.gitee.com/uploads/images/2020/1104/121827_6dd23a40_1277510.png "image-20201103210736651.png")
+  ![Issue中的默认标签](./images/121827_6dd23a40_1277510.png "image-20201103210736651.png")
 
   如果默认的标签不够你使用，你可以添加你的自定义标签。只需要点击右上角的`+`号即可。
 
@@ -185,15 +185,15 @@ Issue 的翻译大致为**议题**、**问题**。
 
   先进入企业面板，进入所在企业：
 
-  ![先进入企业面板，进入所在企业](https://images.gitee.com/uploads/images/2020/1104/121905_7de2c1b7_1277510.png "image-20201103211346712.png")
+  ![先进入企业面板，进入所在企业](./images/121905_7de2c1b7_1277510.png "image-20201103211346712.png")
   
   右上角新建项目可以新建：
   
-  ![右上角新建项目可以新建](https://images.gitee.com/uploads/images/2020/1104/121940_60a50a92_1277510.png "image-20201103211512199.png")
+  ![右上角新建项目可以新建](./images/121940_60a50a92_1277510.png "image-20201103211512199.png")
   
   查看新建的项目：
   
-  ![查看新建的项目](https://images.gitee.com/uploads/images/2020/1104/122018_2ef66098_1277510.png "image-20201103211600514.png")
+  ![查看新建的项目](./images/122018_2ef66098_1277510.png "image-20201103211600514.png")
 
 * **里程碑**：里程碑是某功能或某个时间段的一堆问题的集合。比如我们要写一本书，一个章节如果设置为一个里程碑，那这个章节里面的每一个小节我们就可以分别提多个 Issue，最后将这些 Issue 关联到这个章节的里程碑中，方便管理，可以很容易看到整个章节的完成进度。我们可以根据自己的需要，来使用里程碑的功能。下面是一些使用里程碑功能的例子<sup>[1]</sup>：
 
@@ -205,15 +205,15 @@ Issue 的翻译大致为**议题**、**问题**。
 
   新建里程碑：
 
-  ![新建里程碑](https://images.gitee.com/uploads/images/2020/1104/122051_3d9f8f40_1277510.png "image-20201104104505287.png")
+  ![新建里程碑](./images/122051_3d9f8f40_1277510.png "image-20201104104505287.png")
 
   新建完成后即可在 Issue 中关联：
 
-  ![新建完成后即可在 Issue 中关联](https://images.gitee.com/uploads/images/2020/1104/122123_f025a6a2_1277510.png "image-20201104104609496.png")
+  ![新建完成后即可在 Issue 中关联](./images/122123_f025a6a2_1277510.png "image-20201104104609496.png")
 
 * **关联分支**：这里可以选择关联到该仓库的哪个分支。
 
-  ![选择关联分支](https://images.gitee.com/uploads/images/2020/1104/122205_fa7de81b_1277510.png "image-20201104115955351.png")
+  ![选择关联分支](./images/122205_fa7de81b_1277510.png "image-20201104115955351.png")
 
 * **计划开始日期**：该 Issue 计划开始处理的日期。
 
@@ -221,11 +221,11 @@ Issue 的翻译大致为**议题**、**问题**。
 
 * **置顶选项**：该 Issue 在 Issue 列表中的置顶级别。
 
-  ![置顶选项](https://images.gitee.com/uploads/images/2020/1104/122231_61ed06f5_1277510.png "image-20201104120147079.png")
+  ![置顶选项](./images/122231_61ed06f5_1277510.png "image-20201104120147079.png")
 
 * **优先级**：该问题的严重程度，优先处理级别。
 
-  ![优先级](https://images.gitee.com/uploads/images/2020/1104/122301_aeea5b92_1277510.png "image-20201104120303417.png")
+  ![优先级](./images/122301_aeea5b92_1277510.png "image-20201104120303417.png")
 
 ### Issue 的状态和看板
 
@@ -233,11 +233,11 @@ Issue 在提出之后，对于个人版来说可以有四种状态：待办的�
 
 > 状态变更之后，允许再次变更，比如设置为`已完成`状态的 Issue，可以再次修改为`进行中`。
 
-![Issue 的状态切换](https://images.gitee.com/uploads/images/2020/1104/122341_7c087174_1277510.png "image-20201104120709716.png")
+![Issue 的状态切换](./images/122341_7c087174_1277510.png "image-20201104120709716.png")
 
 我们还可以在`看板`中看到处于每种状态的 Issue 的列表。
 
-![看板页面](https://images.gitee.com/uploads/images/2020/1104/122400_f9648c84_1277510.png "image-20201104120934433.png")
+![看板页面](./images/122400_f9648c84_1277510.png "image-20201104120934433.png")
 
 ### 使用 `@` 提及别人
 
@@ -249,11 +249,11 @@ Issue 在提出之后，对于个人版来说可以有四种状态：待办的�
 
 找到 Issue 编号（这里为 `#I23WUE`）：
 
-![找到 Issue 编号](https://images.gitee.com/uploads/images/2020/1104/151115_93315a5e_1277510.png "image-20201104141131901.png")
+![找到 Issue 编号](./images/151115_93315a5e_1277510.png "image-20201104141131901.png")
 
 支持快速点击，提交 Issue 之后会自动生成链接，链接到该 Issue：
 
-![支持快速点击](https://images.gitee.com/uploads/images/2020/1104/151142_abdbc1da_1277510.png "image-20201104141338952.png")
+![支持快速点击](./images/151142_abdbc1da_1277510.png "image-20201104141338952.png")
 
 ### 通过筛选器过滤 Issue
 
@@ -261,7 +261,7 @@ Issue 在提出之后，对于个人版来说可以有四种状态：待办的�
 
 > 当你将各种 Issue 维护好对应的标签之后，可以快速找到属于某个标签的 Issue 结果进行处理。
 
-![快速搜索 Issue](https://images.gitee.com/uploads/images/2020/1104/151211_cfa06098_1277510.png "image-20201104142549944.png")
+![快速搜索 Issue](./images/151211_cfa06098_1277510.png "image-20201104142549944.png")
 
 ### 在 Commit 中关闭 Issue
 
@@ -280,7 +280,7 @@ Gitee 支持的提交方式有（比如我们需要关闭的 Issue 编号为 24�
 + resolved #24
 ```
 
-![在提交的内容中添加关闭 Issue 的信息](https://images.gitee.com/uploads/images/2020/1104/151238_25c34fd1_1277510.png "image-20201104144448225.png")
+![在提交的内容中添加关闭 Issue 的信息](./images/151238_25c34fd1_1277510.png "image-20201104144448225.png")
 
 ### Issue 中的待办清单
 
@@ -288,7 +288,7 @@ Gitee 支持的提交方式有（比如我们需要关闭的 Issue 编号为 24�
 
 > 勾选或取消勾选后，刷新页面或者关闭该 Issue 页面重新打开，选择的状态依然存在，而且这种操作会保存到该 Issue 的操作日志当中去。修改状态，不再需要重新编辑该 Issue 了，非常的方便。
 
-![Issue待办清单效果演示](https://images.gitee.com/uploads/images/2020/1104/151304_d991149d_1277510.png "image-20201104150040988.png")
+![Issue待办清单效果演示](./images/151304_d991149d_1277510.png "image-20201104150040988.png")
 
 那么，需要拥有这样的待办清单，提 Issue 的时候应该怎么写呢？请看代码：
 
