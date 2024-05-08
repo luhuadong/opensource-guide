@@ -1,5 +1,6 @@
 ---
 title: 常用 Git 命令
+permalink: /git-tutorial/git-commands
 ---
 
 ## Git 命令手册

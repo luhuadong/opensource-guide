@@ -1,5 +1,6 @@
 ---
 title: 什么是版本控制和 Git
+permalink: /git-tutorial/what-is-git
 ---
 
 ## 什么是版本控制和 Git

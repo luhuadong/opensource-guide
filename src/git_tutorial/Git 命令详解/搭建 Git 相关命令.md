@@ -1,5 +1,6 @@
 ---
 title: 搭建 Git 相关命令
+permalink: /git-tutorial/build-and-launch
 ---
 
 ## 在服务器上搭建 Git

@@ -1,6 +1,7 @@
 ---
 title: 如何安装 Git
 language: zh_CN
+permalink: /git-tutorial/how-to-install-git
 ---
 ## 根据系统安装
 

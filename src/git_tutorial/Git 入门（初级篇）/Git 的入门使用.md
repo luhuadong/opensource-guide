@@ -1,5 +1,6 @@
 ---
 title: Git 的入门使用
+permalink: /git-tutorial/quick-start
 ---
 
 更多配置请参阅 [Git 配置](./../Git%20团队协作与管理（进阶篇）/定制%20Git/1.%20Git%20配置.md)
