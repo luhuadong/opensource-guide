@@ -10,7 +10,7 @@ const baiduHmInit = function () {
   function Baidu () {
     var hm = document.createElement('script');
     var s = document.getElementsByTagName('script')[0];
-    hm.src = 'https://hm.baidu.com/hm.js?24f17767262929947cc3631f99bfd274';
+    hm.src = 'https://hm.baidu.com/hm.js?357825fef31b27ef52b5fca13f359b25';
     s.parentNode.insertBefore(hm, s);
 
     if ('ActiveXObject' in window) {

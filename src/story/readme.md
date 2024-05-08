@@ -25,7 +25,7 @@ features:
     link: /story/stories/轻编程与CRMEB打通版的故事/
   
   - title: DolphinScheduler 如何带领我走进开源的世界
-    details: By chenxingchun
+    details: By 陈兴春
     link: /story/stories/DolphinScheduler如何带领我走进开源的世界/
 
   - title: “我的一剂良药”之开源指北
@@ -37,7 +37,7 @@ features:
     link: /story/stories/要懂得舍得的UMS与JPA的故事/
 
   - title: 开源有魔力-DolphinScheduler和我的开源历程
-    details: By baoliang
+    details: By 鲍亮
     link: /story/stories/开源有魔力-DolphinScheduler和我的开源历程/
 
   - title: 感谢Apache DolphinScheduler，让我的青春永不褪色
@@ -47,6 +47,10 @@ features:
   - title: 向微软官方贡献 @types 包
     details: By 杨俊宁
     link: /story/stories/向微软官方贡献 @types 包/
+
+  - title: 开源社区实习记：我把 openEuler 移植到了 Windows WSL
+    details: By 王海涛
+    link: /story/stories/开源社区实习记 - 我把 openEuler 移植到了 Windows WSL/
 
 
 

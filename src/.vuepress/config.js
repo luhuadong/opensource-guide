@@ -207,7 +207,7 @@ module.exports = config({
         {
           title: '开源故事', // 必要的
           collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          sidebarDepth: 1, // 可选的, 默认值是 2
           prefix: 'stories/',
           children: [
             '雪山凌狐的开源故事',
@@ -218,7 +218,8 @@ module.exports = config({
             '要懂得舍得的UMS与JPA的故事',
             '开源有魔力-DolphinScheduler和我的开源历程',
             '感谢Apache DolphinScheduler，让我的青春永不褪色',
-            '向微软官方贡献 @types 包'
+            '向微软官方贡献 @types 包',
+            '开源社区实习记 - 我把 openEuler 移植到了 Windows WSL'
           ]
         }
       ],
