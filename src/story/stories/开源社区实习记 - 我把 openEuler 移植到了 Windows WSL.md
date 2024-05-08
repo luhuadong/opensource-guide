@@ -1,3 +1,10 @@
+---
+title: 开源社区实习记：我把 openEuler 移植到了 Windows WSL
+author: 王海涛
+date: 2021-07-20
+permalink: /story/wanghaitao
+---
+
 # 开源社区实习记 - 我把 openEuler 移植到了 Windows WSL
 
 ![1](https://gitee.com/ouyanghaitao/images/raw/master/1.png)

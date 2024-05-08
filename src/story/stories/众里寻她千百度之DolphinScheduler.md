@@ -1,6 +1,8 @@
 ---
 title: 众里寻她千百度之 DolphinScheduler
 author: CalvinKirs
+date: 2021-01-15
+permalink: /story/calvinkirs
 ---
 
 

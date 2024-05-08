@@ -1,13 +1,17 @@
 ---
 title: DolphinScheduler如何带领我走进开源的世界
 author: chenxingchun
+date: 2021-01-21
+permalink: /story/chenxingchun
 ---
 
 ## 摘要
-> Apache DolphinScheduler 目前是 Apache 孵化项目，目前正在快速发展中。加入Apache DolphinScheduler社区已一年多，已有 400+ 公司在生产上使用，代码+文档贡献者近200位，社区用户4000 +人。本篇文章主要介绍我在Apache DolphinScheduler的经历及收获。
+
+Apache DolphinScheduler 目前是 Apache 孵化项目，目前正在快速发展中。加入Apache DolphinScheduler社区已一年多，已有 400+ 公司在生产上使用，代码+文档贡献者近200位，社区用户4000 +人。本篇文章主要介绍我在Apache DolphinScheduler的经历及收获。
 
 ## 个人简介
-> 陈兴春，易观数科大数据平台测试工程师，Apache DolphinScheduler的一名 Commiter，拥有5年测试经验，平常主要负责千帆产品和DS的测试工作，喜欢专研新技术，对未知事物充满好奇心的一枚萌妹子
+
+陈兴春，易观数科大数据平台测试工程师，Apache DolphinScheduler的一名 Commiter，拥有5年测试经验，平常主要负责千帆产品和DS的测试工作，喜欢专研新技术，对未知事物充满好奇心的一枚萌妹子。
 
 
 ## Apache DolphinScheduler 简述

@@ -1,8 +1,12 @@
 ---
 title: 感谢Apache DolphinScheduler，让我的青春永不褪色
 author: 李岗
+date: 2021-01-21
+permalink: /story/ligang
 ---
+
 ## 个人介绍
+
 我是李岗，是一名开源的爱好者和实践者，是Apache DolphinScheduler(incubator)的初始提交者和PPMC，也是Apache Local Community Beijing(ALC-Beijing)的member。
 
 很开心、很庆幸自己可以成为开源领域的一员，更希望自己在未来不断地对开源持续探索、持续实践、持续分享，最终在开源领域贡献出自己的力量。
