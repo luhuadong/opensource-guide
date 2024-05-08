@@ -1,5 +1,13 @@
+# Source
 /*.ipr
 /*.iws
 /*.iml
 
+# Build
+.vscode
+node_modules
+__MACOSX
 .DS_Store
+
+# Other
+tmp
