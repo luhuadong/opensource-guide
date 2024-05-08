@@ -49,13 +49,14 @@ Pull Request 也叫做 PR（下文统称为 PR），其本质上是一种协同�
 **Gitee 平台**
 
 1. 在 Gitee 上建立两个帐号 A 和 B。
-![账号A](https://images.gitee.com/uploads/images/2021/0410/150351_aaf54390_8456984.png "账号A.png")
-![账号B](https://images.gitee.com/uploads/images/2021/0410/150408_a80b686f_8456984.png "账号B.png")
+  ![账号A](./images/150351_aaf54390_8456984.png "账号A.png")
+
+  ![账号B](./images/150408_a80b686f_8456984.png "账号B.png")
 
 2. 使用 A 帐号，新建仓库 pull_request_demo
-![新建仓库1](https://images.gitee.com/uploads/images/2021/0410/150429_3f7cb023_8456984.png "新建仓库1.png")
-![新建仓库2](https://images.gitee.com/uploads/images/2021/0410/150447_58b43a00_8456984.png "新建仓库2.png")
-![新建仓库3](https://images.gitee.com/uploads/images/2021/0410/150501_421219a8_8456984.png "新建仓库3.png")
+![新建仓库1](./images/150429_3f7cb023_8456984.png "新建仓库1.png")
+![新建仓库2](./images/150447_58b43a00_8456984.png "新建仓库2.png")
+![新建仓库3](./images/150501_421219a8_8456984.png "新建仓库3.png")
 
 3. 在本地提交 README.md
 
@@ -69,12 +70,12 @@ Pull Request 也叫做 PR（下文统称为 PR），其本质上是一种协同�
    git push -u origin master
    ```
 
-![本地提交](https://images.gitee.com/uploads/images/2021/0410/150531_69fb8ed9_8456984.gif "在本地提交 README.md.gif")
+![本地提交](./images/150531_69fb8ed9_8456984.gif "在本地提交 README.md.gif")
 
 4. 使用 B 帐号登录 Gitee，然后 Fork 该项目。
-![Fork项目1](https://images.gitee.com/uploads/images/2021/0410/150546_b6c50179_8456984.png "B账号fork项目1.png")
-![Fork项目2](https://images.gitee.com/uploads/images/2021/0410/150559_4e6f6afc_8456984.png "B账号fork项目2.png")
-![Fork项目3](https://images.gitee.com/uploads/images/2021/0410/150610_4351a9ea_8456984.png "B账号fork项目3.png")
+![Fork项目1](./images/150546_b6c50179_8456984.png "B账号fork项目1.png")
+![Fork项目2](./images/150559_4e6f6afc_8456984.png "B账号fork项目2.png")
+![Fork项目3](./images/150610_4351a9ea_8456984.png "B账号fork项目3.png")
 
 5. 下载项目到本地
 
@@ -86,37 +87,37 @@ Pull Request 也叫做 PR（下文统称为 PR），其本质上是一种协同�
    git push
    ```
 
-![下载到本地](https://images.gitee.com/uploads/images/2021/0410/150637_0c8c1499_8456984.gif "下载项目到本地.gif")
+![下载到本地](./images/150637_0c8c1499_8456984.gif "下载项目到本地.gif")
 
 6. 使用 B 帐号登录 Gitee，进入 pull_request_demo 仓库，点击 「+ Pull request」链接。
-![Pull-1](https://images.gitee.com/uploads/images/2021/0410/150654_687717a7_8456984.png "pull_requests1.png")
-![Pull-2](https://images.gitee.com/uploads/images/2021/0410/150708_fe12dee3_8456984.png "pull_requests2.png")
+![Pull-1](./images/150654_687717a7_8456984.png "pull_requests1.png")
+![Pull-2](./images/150708_fe12dee3_8456984.png "pull_requests2.png")
 
 7. 选择 源分支 和 目标分支。
-![源分支](https://images.gitee.com/uploads/images/2021/0410/150915_d55c2b70_8456984.png "源分支.png")
-![目标分支](https://images.gitee.com/uploads/images/2021/0410/150928_84fd4489_8456984.png "目标分支.png")
+![源分支](./images/150915_d55c2b70_8456984.png "源分支.png")
+![目标分支](./images/150928_84fd4489_8456984.png "目标分支.png")
 
 8. 填写提交说明后，点击「创建」按钮。
-![填写说明](https://images.gitee.com/uploads/images/2021/0410/150946_953a2d7e_8456984.png "pull_requests3.png")
-![点击创建](https://images.gitee.com/uploads/images/2021/0410/155106_78a14137_8456984.png "点击创建.png")
+![填写说明](./images/150946_953a2d7e_8456984.png "pull_requests3.png")
+![点击创建](./images/155106_78a14137_8456984.png "点击创建.png")
 
 9. 使用 A 帐号登录 Gitee，进入 pull_request_demo 项目。
-![进入项目](https://images.gitee.com/uploads/images/2021/0410/160712_621d0351_8456984.png "进入项目.png")
+![进入项目](./images/160712_621d0351_8456984.png "进入项目.png")
 
 10. 可以看到 Pull request 中有新的数据。
-![有数据](https://images.gitee.com/uploads/images/2021/0410/160726_a311f8f8_8456984.png "有新数据.png")
+![有数据](./images/160726_a311f8f8_8456984.png "有新数据.png")
 
 11. 点击「合并」按钮，即可完成。
-![合并](https://images.gitee.com/uploads/images/2021/0410/160740_eff52230_8456984.gif "合并.gif")
+![合并](./images/160740_eff52230_8456984.gif "合并.gif")
 
 **GitHub 平台**
 
 1. 在 GitHub 上建立两个帐号 A 和 B。
-![账号A](https://images.gitee.com/uploads/images/2021/0412/210726_a1f2fb20_8456984.png "账号A.png")
-![账号B](https://images.gitee.com/uploads/images/2021/0412/210742_4cf5244b_8456984.png "账号B.png")
+![账号A](./images/210726_a1f2fb20_8456984.png "账号A.png")
+![账号B](./images/210742_4cf5244b_8456984.png "账号B.png")
 
 2. 使用 A 帐号，创建项目 pull_request_demo
-![新建仓库](https://images.gitee.com/uploads/images/2021/0412/210813_1923ef71_8456984.gif "新建仓库.gif")
+![新建仓库](./images/210813_1923ef71_8456984.gif "新建仓库.gif")
 
 3. 在本地提交 README.md
 
@@ -129,11 +130,11 @@ Pull Request 也叫做 PR（下文统称为 PR），其本质上是一种协同�
    git remote add origin https://github.com/A/pull_request_demo.git
    git push -u origin main
    ```
-![本地提交](https://images.gitee.com/uploads/images/2021/0412/210834_1996cb81_8456984.gif "本地提交 README.md.gif")
+![本地提交](./images/210834_1996cb81_8456984.gif "本地提交 README.md.gif")
 
 4. 使用 B 帐号登录 GitHub，然后 Fork 该项目。
-![Fork项目1](https://images.gitee.com/uploads/images/2021/0412/210900_ec78c0a3_8456984.png "B账号Fork项目1.png")
-![Fork项目2](https://images.gitee.com/uploads/images/2021/0412/210912_81ab2e4b_8456984.png "B账号Fork项目2.png")
+![Fork项目1](./images/210900_ec78c0a3_8456984.png "B账号Fork项目1.png")
+![Fork项目2](./images/210912_81ab2e4b_8456984.png "B账号Fork项目2.png")
 
 5. 下载项目到本地
 
@@ -144,30 +145,30 @@ Pull Request 也叫做 PR（下文统称为 PR），其本质上是一种协同�
    git commit -m "modify commit"
    git push
    ```
-![下载项目到本地](https://images.gitee.com/uploads/images/2021/0412/211003_c2c14ec9_8456984.gif "下载项目到本地.gif")
+![下载项目到本地](./images/211003_c2c14ec9_8456984.gif "下载项目到本地.gif")
 
 6. 使用 B 帐号登录 GitHub，进入 pull_request_demo 仓库，点击 Pull request 链接。
-![Pull项目1](https://images.gitee.com/uploads/images/2021/0412/211325_db7cf976_8456984.png "pull_request1.png")
-![Pull项目2](https://images.gitee.com/uploads/images/2021/0412/211338_5f0754d0_8456984.png "pull_request2.png")
+![Pull项目1](./images/211325_db7cf976_8456984.png "pull_request1.png")
+![Pull项目2](./images/211338_5f0754d0_8456984.png "pull_request2.png")
 
 7. 选择 base 和 head 仓库。点击「Create pull request」按钮。
-![选择Base仓库](https://images.gitee.com/uploads/images/2021/0412/211356_5be9f12f_8456984.png "base仓库.png")
-![选择Head仓库](https://images.gitee.com/uploads/images/2021/0412/211415_eb747ed6_8456984.png "head仓库.png")
-![点击Create pull request按钮](https://images.gitee.com/uploads/images/2021/0412/211618_853d205c_8456984.png "点击Create pull request按钮")
+![选择Base仓库](./images/211356_5be9f12f_8456984.png "base仓库.png")
+![选择Head仓库](./images/211415_eb747ed6_8456984.png "head仓库.png")
+![点击Create pull request按钮](./images/211618_853d205c_8456984.png "点击Create pull request按钮")
 
 8. 填写提交说明后，点击「Create pull request」按钮。
-![填写说明](https://images.gitee.com/uploads/images/2021/0412/211746_ebc51069_8456984.png "填写说明.png")
-![提交](https://images.gitee.com/uploads/images/2021/0412/211802_7f52d86e_8456984.png "提交.png")
+![填写说明](./images/211746_ebc51069_8456984.png "填写说明.png")
+![提交](./images/211802_7f52d86e_8456984.png "提交.png")
 
 9. 使用 A 帐号登录 GitHub，进入 pull_request_demo 项目。
-![进入项目1](https://images.gitee.com/uploads/images/2021/0412/211815_7a8e3dab_8456984.png "A账号进入项目1.png")
-![进入项目2](https://images.gitee.com/uploads/images/2021/0412/211832_21255b22_8456984.png "A账号进入项目2.png")
+![进入项目1](./images/211815_7a8e3dab_8456984.png "A账号进入项目1.png")
+![进入项目2](./images/211832_21255b22_8456984.png "A账号进入项目2.png")
 
 10. 可以看到 Pull request 中有新的数据。
-![有数据](https://images.gitee.com/uploads/images/2021/0412/211849_884cb0ca_8456984.png "有新数据.png")
+![有数据](./images/211849_884cb0ca_8456984.png "有新数据.png")
 
 11. 点击 Confirm merge，完成合并。
-![合并](https://images.gitee.com/uploads/images/2021/0412/213111_8df051bf_8456984.gif "合并.gif")
+![合并](./images/213111_8df051bf_8456984.gif "合并.gif")
 
 ### 补充：参与公共的 PR 仓库来完成第一次PR尝试
 
@@ -239,7 +240,7 @@ GitHub 提供了一份审核原则，帮助大家更加友好高效地进行 PR 
 
 具体步骤如下图所示。
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0701/153036_247bbc53_1899066.png "屏幕截图.png")
+![输入图片说明](./images/153036_247bbc53_1899066.png "屏幕截图.png")
 
 ## Pull Request 持续集成与部署
 
@@ -271,7 +272,7 @@ GitHub 提供了 GitHub Actions 功能，通过构建 workflow、job、step、ac
 
 如下图所示，在仓库下点击 Actions 页面，可以通过“set up a workflow yourself”创建一个自定义流程，也可以从下方选择对应的 Action 成品。
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0701/153011_d625f1ff_1899066.png "屏幕截图.png")
+![输入图片说明](./images/153011_d625f1ff_1899066.png "屏幕截图.png")
 
 此外，GitHub 还提供了 [Actions 集市（Actions Marketplace）](https://github.com/marketplace?type=actions)，集市中囊括了所有 Action。你可以从集市中挑选你需要的 Action 成品，也可以将自己构建好的 Action 通过集市分享出来。
 
@@ -281,10 +282,10 @@ Gitee 提供了 Gitee DevOps 功能，通过集成第三方服务来实现 CI/CD
 
 如下图所示，Gitee 平台目前支持：Gitee Go、百度效率云、腾讯云托管、腾讯云 Serverless、Jenkins for Gitee 等集成方式。
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0701/153021_0701f7f6_1899066.png "屏幕截图.png")
+![输入图片说明](./images/153021_0701f7f6_1899066.png "屏幕截图.png")
 
 ## 本部分内容贡献者
 
-[brace](https://gitee.com/awang)、[李志鹏](https://gitee.com/lizhipeng1992)、[ORH](https://gitee.com/orh)、[ShardingSphere](https://gitee.com/dangdangdotcom_zhangliang)、[冰彦糖](https://gitee.com/bingyantang)、[西狩](https://gitee.com/lihuimingxs)  
+[brace](https://gitee.com/awang)、[李志鹏](https://gitee.com/lizhipeng1992)、[ORH](https://gitee.com/orh)、[ShardingSphere](https://gitee.com/dangdangdotcom_zhangliang)、[冰彦糖](https://gitee.com/bingyantang)、[西狩](https://gitee.com/lihuimingxs)、[阿基米东](https://gitee.com/luhuadong)
 
 > 发现内容中的错误？还是想要补充更多符合主题的内容？《开源指北》欢迎你进行贡献，点击[贡献指南](./../贡献指南.md)了解贡献的具体步骤。
