@@ -1,3 +1,8 @@
+---
+title: 第 7 小节：提交第一个 Pull Request
+permalink: /guide/chapter3/section-7
+---
+
 # 第 7 小节：提交第一个 Pull Request
 
 <!--

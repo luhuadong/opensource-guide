@@ -1,3 +1,8 @@
+---
+title: 第 6 小节：CONTRIBUTING 编写
+permalink: /guide/chapter4/section-6
+---
+
 # 第 6 小节：CONTRIBUTING 编写
 
 CONTRIBUTING 是开源项目中的一个重要文件，它的作用是告诉用户和开发者如何对项目做出贡献。本节我们将介绍如何为你的项目编写一个好的 CONTRIBUTING 文件，让更多人参与到那你的项目。

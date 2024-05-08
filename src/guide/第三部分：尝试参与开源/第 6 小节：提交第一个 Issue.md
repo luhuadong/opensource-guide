@@ -1,3 +1,8 @@
+---
+title: 第 6 小节：提交第一个 Issue
+permalink: /guide/chapter3/section-6
+---
+
 # 第 6 小节：提交第一个 Issue
 
 ## 什么是 Issue
