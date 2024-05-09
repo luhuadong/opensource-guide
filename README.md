@@ -10,7 +10,7 @@
 
 当然你也可以点击仓库文件列表中的不同目录和文件来阅读不同的章节，还可以在下方评论区参与讨论。
 
-如果你想在仓库内直接阅读，那不如就从 **[什么是开源](./src/guide/第一部分：初识开源/第 1 小节：什么是开源.md)** 开始吧！
+如果你想在仓库内直接阅读，那不如就从 **[什么是开源](https://gitee.com/gitee-community/opensource-guide/blob/master/src/guide/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%9A%E5%88%9D%E8%AF%86%E5%BC%80%E6%BA%90/%E7%AC%AC%201%20%E5%B0%8F%E8%8A%82%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%80%E6%BA%90.md#)** 开始吧！
 
 
 
