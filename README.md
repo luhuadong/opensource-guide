@@ -18,7 +18,7 @@
 
 我们为了让阅读体验更加友好，还给「开源指北」建立了静态页面，该页面还支持了 PWA ，Android 系统的用户还可以把开源指北添加在桌面上，能够让你随时随地的阅读。
 
-点击链接即可享受更轻量的阅读体验：https://gitee.com/opensource-guide/ 
+点击链接即可享受更轻量的阅读体验：https://gitee.com/opensource-guide/ 备用链接：https://getiot.tech/opensource-guide
 
 > 仓库内容始终为最新内容，官方 Pages 的内容会定期与仓库内容同步。
 
