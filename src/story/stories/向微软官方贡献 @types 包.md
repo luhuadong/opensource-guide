@@ -27,7 +27,7 @@ permalink: /story/yangjunning
 
 DefinitelyTyped 目前是由微软官方维护的开源项目，参与的方式和 Homebrew 差不多，都是基于 GitHub 的工作流:
 
-1. fork [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) 到自己的账号下
+1. Fork [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) 到自己的账号下
 2. 添加自己的包并编写类型声明
 3. 提交 PR
 4. 官方 review 并合并发布到 NPM
@@ -97,3 +97,4 @@ yarn lint tuya-panel-kit
 1. [dtslint](https://github.com/microsoft/dtslint) ：微软专门写的用来检验类型声明文件的工具。正是因为它，我做了大量优化工作。
 2. 机器人 🤖（dt-mergebot、dt-review-bot、typescript-bot-watchdog）：在你的代码通过所有规范之前，都是这些机器人在和你交互。大家感兴趣的话，之后我会单独出一篇解析的文章
 3. 尽职尽责的维护：虽然有时 review 速度明显很慢（可能因为国外疫情）。但是这些维护者真的是尽职尽责的 review 你的代码。机器再厉害也只是一个减少工作量的工具。我们应该致敬的还是这些为社区默默奉献的人。
+
