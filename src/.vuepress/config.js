@@ -24,7 +24,7 @@ module.exports = config({
     logo: '/logo.svg',
     darkmode: 'switch',
     baseLang: 'zh-CN',
-    hostname: 'https://gitee.com/gitee-community/opensource-guide',
+    hostname: 'https://getiot.tech',
     searchMaxSuggestions: 10,
     themeColor: {
       green: '#4fad54',
