@@ -1,5 +1,5 @@
 ---
-title: 要懂得舍得的 UMS 与 JPA 的故事
+title: 要懂得舍得的 UMS 与 JAP 的故事
 author: 要懂得舍得
 date: 2021-01-29
 permalink: /story/pcore
@@ -31,6 +31,6 @@ Spring security 与 JustAuth 集成：支持所有 justAuth 支持的第三方�
 
 ## 如何接触/了解到这个开源项目
 
-通过第二个项目 [JustAuth-security](https://gitee.com/pcore/just-auth-spring-security-starter ) 认识了 **GVP** 项目 [JustAuth](https://gitee.com/justauth ) 的作者，也加入 [JustAuth](https://gitee.com/justauth ) 大家庭，[JustAuth](https://gitee.com/justauth ) 作者今天刚推出了新的开源项目 [JPA](https://gitee.com/fujieid/jap)，我也成为其中的一员, 希望 2021 年 [JPA](https://gitee.com/fujieid/jap) 成为又一个 **GVP** 项目。
+通过第二个项目 [JustAuth-security](https://gitee.com/pcore/just-auth-spring-security-starter ) 认识了 **GVP** 项目 [JustAuth](https://gitee.com/justauth ) 的作者，也加入 [JustAuth](https://gitee.com/justauth ) 大家庭，[JustAuth](https://gitee.com/justauth ) 作者今天刚推出了新的开源项目 [JAP](https://gitee.com/fujieid/jap)（全称 JustAuthPlus），我也成为其中的一员, 希望 2021 年 [JAP](https://gitee.com/fujieid/jap) 成为又一个 **GVP** 项目。
 
 **2021 加油!**
