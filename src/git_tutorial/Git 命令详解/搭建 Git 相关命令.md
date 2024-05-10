@@ -390,5 +390,6 @@ Receiving objects: 100% (3/3), done.
 
 参考 ：
 
-* [https://blog.csdn.net/AAA17864308253/article/details/103115291](https://blog.csdn.net/AAA17864308253/article/details/103115291)
-* [https://git-scm.com/book/zh/v2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git-Smart-HTTP](https://git-scm.com/book/zh/v2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git-Smart-HTTP)
+* [基于 git+httpd 搭建 http 协议的 git 仓库](https://blog.csdn.net/AAA17864308253/article/details/103115291)
+* [https://git-scm.com/book/zh/v2/服务器上的-Git-Smart-HTTP](https://git-scm.com/book/zh/v2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git-Smart-HTTP)
+
