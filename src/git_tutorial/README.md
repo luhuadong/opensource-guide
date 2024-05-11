@@ -28,8 +28,11 @@ footer: Git 教程采用 CC-BY-SA-4.0 进行许可 | 感谢每一位参与的开
 ---
 
 ### 🎩 编写人员
+
 @小熊 
 
 @willcoder 
 
 @Gitees Urgroßvater 
+
+@阿基米东

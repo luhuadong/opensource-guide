@@ -24,7 +24,7 @@ module.exports = config({
     logo: '/logo.svg',
     darkmode: 'switch',
     baseLang: 'zh-CN',
-    hostname: 'https://gitee.com/gitee-community/opensource-guide',
+    hostname: 'https://getiot.tech',
     searchMaxSuggestions: 10,
     themeColor: {
       green: '#4fad54',
@@ -215,7 +215,7 @@ module.exports = config({
             '轻编程与CRMEB打通版的故事',
             'DolphinScheduler如何带领我走进开源的世界',
             '“我的一剂良药”之开源指北',
-            '要懂得舍得的UMS与JPA的故事',
+            '要懂得舍得的UMS与JAP的故事',
             '开源有魔力-DolphinScheduler和我的开源历程',
             '感谢Apache DolphinScheduler，让我的青春永不褪色',
             '向微软官方贡献 @types 包',

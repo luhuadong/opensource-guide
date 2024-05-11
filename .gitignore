@@ -4,6 +4,7 @@
 /*.iml
 
 # Build
+dist/
 .vscode
 node_modules
 __MACOSX
@@ -11,3 +12,4 @@ __MACOSX
 
 # Other
 tmp
+vuepress
