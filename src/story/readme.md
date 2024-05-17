@@ -9,7 +9,7 @@ heroText: 开源故事
 tagline: 听一听「过来人」们的经验和故事
 action:
   - text: 我要投稿
-    link: https://gitee.com/gitee-community/opensource-guide/new/master/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B
+    link: https://gitee.com/gitee-community/opensource-guide/new/master/src/story/stories
 
 features:
   - title: 我与开源指北的故事
@@ -76,7 +76,7 @@ footer: 开源指北-开源故事 采用 CC-BY-SA-4.0 进行许可 | 感谢每�
    - 除以上内容之外，也欢迎为开源小白写上一句鼓励的话语（可选填，非必要内容）。
 
 2. 投稿方式：  
-   - 快捷入口 >> [点我投稿故事](https://gitee.com/gitee-community/opensource-guide/new/master/%E5%BC%80%E6%BA%90%E6%95%85%E4%BA%8B)           
+   - 快捷入口 >> [点我投稿故事](https://gitee.com/gitee-community/opensource-guide/new/master/src/story/stories)
      
 3. 注意  
 
