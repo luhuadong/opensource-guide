@@ -19,7 +19,7 @@ features:
     link: /story/stories/众里寻她千百度之DolphinSchedule
   - title: 轻编程与 CRMEB 打通版的故事
     details: By 轻编程
-    link: /story/stories/轻编程与CRMEB打通版的故
+    link: /story/stories/轻编程与CRMEB打通版的故事
   - title: DolphinScheduler 如何带领我走进开源的世界
     details: By 陈兴春
     link: /story/stories/DolphinScheduler如何带领我走进开源的世界

@@ -9,7 +9,7 @@ export default defineConfig({
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         logo: '/logo.svg',
-        
+
         nav: [
             { text: '首页', link: '/' },
             {
@@ -33,7 +33,6 @@ export default defineConfig({
             '/guide/': [
                 {
                     text: '初识开源',
-                    link: '/guide/第一部分：初识开源',
                     items: [
                         { text: '什么是开源', link: '/guide/第一部分：初识开源/第 1 小节：什么是开源' },
                         { text: '开源与个人技术成长', link: '/guide/第一部分：初识开源/第 2 小节：开源与个人技术成长' },
@@ -47,7 +46,6 @@ export default defineConfig({
                 },
                 {
                     text: '学习和使用开源项目',
-                    link: '/guide/第二部分：学习和使用开源项目',
                     items: [
                         { text: '如何找到适合自己学习和使用的开源项目', link: '/guide/第二部分：学习和使用开源项目/第 1 小节：如何找到适合自己学习和使用的开源项目' },
                         { text: '开源项目的源代码该怎么读', link: '/guide/第二部分：学习和使用开源项目/第 2 小节：开源项目的源代码该怎么读' },
@@ -58,7 +56,6 @@ export default defineConfig({
                 },
                 {
                     text: '尝试参与开源',
-                    link: '/guide/第三部分：尝试参与开源',
                     items: [
                         { text: '开源项目中的不同角色', link: '/guide/第三部分：尝试参与开源/第 1 小节：开源项目中的不同角色' },
                         { text: '个人为什么要参与开源贡献', link: '/guide/第三部分：尝试参与开源/第 2 小节：个人为什么要参与开源贡献' },
@@ -73,7 +70,6 @@ export default defineConfig({
                 },
                 {
                     text: '启动自己的开源项目',
-                    link: '/guide/第四部分：启动自己的开源项目',
                     items: [
                         { text: '有了开源的想法后从何开始', link: '/guide/第四部分：启动自己的开源项目/第 1 小节：有了开源的想法后从何开始' },
                         { text: '为开源项目建立良好的基础', link: '/guide/第四部分：启动自己的开源项目/第 2 小节：为开源项目建立良好的基础' },
@@ -85,7 +81,6 @@ export default defineConfig({
                 },
                 {
                     text: '开源治理',
-                    link: '/guide/第五部分：开源治理',
                     items: [
                         { text: '个人维护和建立社区，两者如何选择', link: '/guide/第五部分：开源治理/第 1 小节：个人维护和建立社区，两者如何选择' },
                         { text: '打造开源社区', link: '/guide/第五部分：开源治理/第 2 小节：打造开源社区' },
@@ -95,7 +90,6 @@ export default defineConfig({
                 },
                 {
                     text: '有关开源的其他问题',
-                    link: '/guide/第六部分：其他问题',
                     items: [
                         { text: '怎样在本职工作和开源项目间做好平衡', link: '/guide/第六部分：其他问题/第 1 小节：怎样在本职工作和开源项目间做好平衡' },
                         { text: '关于开源项目的商业化', link: '/guide/第六部分：其他问题/第 2 小节：关于开源项目的商业化' },
