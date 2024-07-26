@@ -1,26 +1,16 @@
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1014/153301_92280c77_1899542.png "置顶.png")    
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1014/153301_92280c77_1899542.png "置顶.png")
 
-### 👋 嗨～ 欢迎来到开源的世界！
+### 👋 嗨～ 欢迎来到开源的世界
 
 「开源指北」项目是由 Gitee 发起，邀请全体开源爱好者共同参与的**开源百科编写项目**。目前 1.0 版本已经上线，你可以通过以下两种方式阅读：
 
-**1. 在仓库内直接阅读**
+1. 在仓库内直接阅读
 
-这里是 **[目录](./目录.md)**，点击目录下不同章节即可进行阅读。
+如果你想在仓库内直接阅读，那不如就从 **[什么是开源](https://gitee.com/gitee-community/opensource-guide/blob/master/guide/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%9A%E5%88%9D%E8%AF%86%E5%BC%80%E6%BA%90/%E7%AC%AC%201%20%E5%B0%8F%E8%8A%82%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%80%E6%BA%90.md#)** 开始吧！
 
-当然你也可以点击仓库文件列表中的不同目录和文件来阅读不同的章节，还可以在下方评论区参与讨论。
+1. 在「开源指北」官方 Pages 中阅读
 
-如果你想在仓库内直接阅读，那不如就从 **[什么是开源](https://gitee.com/gitee-community/opensource-guide/blob/master/src/guide/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%9A%E5%88%9D%E8%AF%86%E5%BC%80%E6%BA%90/%E7%AC%AC%201%20%E5%B0%8F%E8%8A%82%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%80%E6%BA%90.md#)** 开始吧！
-
-
-
-**2. 在「开源指北」官方 Pages 中阅读**
-
-我们为了让阅读体验更加友好，还给「开源指北」建立了静态页面，该页面还支持了 PWA ，Android 系统的用户还可以把开源指北添加在桌面上，能够让你随时随地的阅读。
-
-点击链接即可享受更轻量的阅读体验：https://gitee.com/opensource-guide/ 
-
-备用链接：https://getiot.tech/opensource-guide
+我们为了让阅读体验更加友好，还给「开源指北」建立了静态页面，该页面还支持了 PWA，Android 系统的用户还可以把开源指北添加在桌面上，能够让你随时随地的阅读。点击链接即可享受更轻量的阅读体验：<https://gitee.com/opensource-guide/>
 
 > 仓库内容始终为最新内容，官方 Pages 的内容会定期与仓库内容同步。
 
@@ -32,41 +22,41 @@
 
 #### 如何进行贡献
 
-可以通过提交 [Issue](https://gitee.com/gitee-community/opensource-guide/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0) 和 PR 的方式对「开源指北」做出贡献或是提出需求，更详尽的步骤可以参考[贡献指南](./贡献指南.md)。
+可以通过提交 [Issue](https://gitee.com/gitee-community/opensource-guide/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0) 和 PR 的方式对「开源指北」做出贡献或是提出需求，更详尽的步骤可以参考[贡献指南](./CONTRIBUTE.md)。
 
+#### 加入编写者社群
 
-#### 加入编写者社群    
 如果你想和众多开源爱好者一起聊开源，添加 Gitee 小助手（gitee2013），备注「开源指北」，拉你入群。
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0712/212657_b00725ef_1899542.png "150-小助手微信.png")  
 
+### 👩‍👩‍👧‍👦 审校专家团队
 
-### 👩‍👩‍👧‍👦 审校专家团队   
-为保证电子文档的内容更有参考价值，Gitee 内容组特别邀请了几位技术专家担任本次的审校人员（以下名单按首字母排序）：    
-       
-**代立冬**       
+为保证电子文档的内容更有参考价值，Gitee 内容组特别邀请了几位技术专家担任本次的审校人员（以下名单按首字母排序）：
+
+**代立冬**
 白鲸开源联合创始人，Apache 软件基金会会员，开源积极分子，是十分流行的大数据任务调度 - Apache DolphinScheduler PMC Chair 和数据集成平台 - Apache SeaTunnel(incubator) PPMC 及 Apache 孵化器导师，也活跃于各个大数据开源社区。  
-     
-**姜宁**       
-华为开源能力中心技术专家，Apache 软件基金会会员，前红帽软件主任软件工程师，在企业级开源中间件开发方面有十余年经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF，Apache Camel，以及 Apache ServiceMix 的开发。             
-      
-  
-**李建盛（笔名适兕）**       
-李建盛，开源文化布道师,技术翻译，开源之道作者，opensourceway.community 创始人、作家、译者、开源社成员。    
-      
-**潘娟**       
-京东数科高级 DBA，Apache ALC Beijing member， Apache ShardingSphere PMC 主要负责京东数科分布式数据库开发、数据库运维自动化平台开发等工作。曾负责京东数科数据库自动化平台设计与开发，现专注于 Apache ShardingSphere 分布式数据库中间件生态的架构及研发。主要在分布式数据库、开源、分布式架构等相关领域进行探索。多次受邀参加数据库&架构领域的相关会议并进行分享交流。     
-          
-**卫剑钒**     
-开源“圣经”《大教堂与集市》中文版译者，国际信息系统安全认证专家（CISSP），目前就职于某大型金融机构，从事信息科技管理工作。曾发表过《开源的7大理念》、《从契约精神谈 MIT 协议》、《copyright 的真正含义是什么》、《步进式解读 Apache 许可证》、《使用 Apache 协议的是自由软件吗》等文章。    
-    
-**张亮**     
+
+**姜宁**
+华为开源能力中心技术专家，Apache 软件基金会会员，前红帽软件主任软件工程师，在企业级开源中间件开发方面有十余年经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF，Apache Camel，以及 Apache ServiceMix 的开发。
+
+**李建盛（笔名适兕）**
+李建盛，开源文化布道师，技术翻译，开源之道作者，opensourceway.community 创始人、作家、译者、开源社成员。
+
+**潘娟**
+京东数科高级 DBA，Apache ALC Beijing member，Apache ShardingSphere PMC 主要负责京东数科分布式数据库开发、数据库运维自动化平台开发等工作。曾负责京东数科数据库自动化平台设计与开发，现专注于 Apache ShardingSphere 分布式数据库中间件生态的架构及研发。主要在分布式数据库、开源、分布式架构等相关领域进行探索。多次受邀参加数据库&架构领域的相关会议并进行分享交流。
+
+**卫剑钒**
+开源“圣经”《大教堂与集市》中文版译者，国际信息系统安全认证专家（CISSP），目前就职于某大型金融机构，从事信息科技管理工作。曾发表过《开源的 7 大理念》、《从契约精神谈 MIT 协议》、《copyright 的真正含义是什么》、《步进式解读 Apache 许可证》、《使用 Apache 协议的是自由软件吗》等文章。
+
+**张亮**
 京东数科数字技术中心架构专家，Apache ShardingSphere，ElasticJob 创始人。热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。  
 目前主要精力投入在将分布式数据库中间件 Apache ShardingSphere 打造为业界一流的金融级数据解决方案之上。  
-Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项目，也是 Apache 软件基金会首个分布式数据库中间件。曾出版书籍《未来架构——从服务化到云原生》。      
+Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项目，也是 Apache 软件基金会首个分布式数据库中间件。曾出版书籍《未来架构——从服务化到云原生》。
   
 ### 🎪 支持社区
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1126/135201_1f86cd37_1899542.png "支持社区-11-26.png")   
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1126/135201_1f86cd37_1899542.png "支持社区-11-26.png")
 
 ### 📌 License
 

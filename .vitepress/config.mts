@@ -5,7 +5,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: "开源指北",
     description: "一份给开源新手的保姆级开源百科",
-    srcDir: 'src',
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         logo: '/logo.svg',
@@ -15,7 +14,6 @@ export default defineConfig({
             {
                 text: '开源指北',
                 link: '/guide/readme.md',
-
             },
             { text: '开源故事', link: '/story/readme' },
             { text: '编写成员', link: '/members/readme' },
@@ -23,6 +21,7 @@ export default defineConfig({
                 text: '我也要贡献',
                 items: [
                     { text: '开源指北仓库', link: 'https://gitee.com/gitee-community/opensource-guide' },
+                    { text: '贡献指南', link: '../CONTRIBUTE' },
                     { text: '如何加入我们', link: '/joinus/readme' }
                 ]
             }
@@ -237,5 +236,11 @@ export default defineConfig({
         },
 
     },
-
+    vite: {
+        build: {
+            rollupOptions: {
+                external: ["vue/server-renderer", "vue"]
+            }
+        }
+    }
 })
