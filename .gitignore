@@ -13,3 +13,7 @@ __MACOSX
 # Other
 tmp
 vuepress
+
+# VitePress
+.vitepress/dist
+.vitepress/cache
