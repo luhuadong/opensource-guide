@@ -51,8 +51,8 @@ module.exports = config({
       '/guide/': [
         {
           title: '第一部分：初识开源', // 必要的
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 2, // 可选的，默认值是 2
           prefix: '第一部分：初识开源/',
           children: [
             '第 1 小节：什么是开源',
@@ -67,8 +67,8 @@ module.exports = config({
         },
         {
           title: '第二部分：学习和使用开源项目',
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 2, // 可选的，默认值是 2
           prefix: '第二部分：学习和使用开源项目/',
           children: [
             '第 1 小节：如何找到适合自己学习和使用的开源项目',
@@ -80,8 +80,8 @@ module.exports = config({
         },
         {
           title: '第三部分：尝试参与开源',
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 2, // 可选的，默认值是 2
           prefix: '第三部分：尝试参与开源/',
           children: [
             '第 1 小节：开源项目中的不同角色',
@@ -97,8 +97,8 @@ module.exports = config({
         },
         {
           title: '第四部分：启动自己的开源项目',
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 2, // 可选的，默认值是 2
           prefix: '第四部分：启动自己的开源项目/',
           children: [
             '第 1 小节：有了开源的想法后从何开始',
@@ -111,15 +111,15 @@ module.exports = config({
         },
         {
           title: '第五部分：开源治理',
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 2, // 可选的，默认值是 2
           prefix: '第五部分：开源治理/',
           children: ['第 1 小节：个人维护和建立社区，两者如何选择', '第 2 小节：打造开源社区', '第 3 小节：开源项目的常见治理架构', '第 4 小节：确保开源代码质量的几个要点']
         },
         {
           title: '第六部分：有关开源的其他问题',
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 2, // 可选的，默认值是 2
           prefix: '第六部分：其他问题/',
           children: ['第 1 小节：怎样在本职工作和开源项目间做好平衡', '第 2 小节：关于开源项目的商业化']
         }
@@ -128,22 +128,22 @@ module.exports = config({
       '/git_tutorial/': [
         {
           title: 'Git 入门（初级篇）', // 必要的
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 2, // 可选的，默认值是 2
           prefix: 'Git 入门（初级篇）/',
           children: ['什么是版本控制和 Git', '如何安装 Git', 'Git 的入门使用']
         },
         {
           title: 'Git 命令详解', // 必要的
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 2, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 2, // 可选的，默认值是 2
           prefix: 'Git 命令详解/',
           children: ['常用 Git 命令', '分支与合并相关命令', '使用命令操作远程仓库', '搭建 Git 相关命令']
         },
         {
           title: 'Git 团队协作与管理（进阶篇）', // 必要的
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 3, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 3, // 可选的，默认值是 2
           prefix: 'Git 团队协作与管理（进阶篇）/',
           children: [
             {
@@ -206,18 +206,18 @@ module.exports = config({
       '/story/': [
         {
           title: '开源故事', // 必要的
-          collapsable: false, // 可选的, 默认值是 true,
-          sidebarDepth: 1, // 可选的, 默认值是 2
+          collapsable: false, // 可选的，默认值是 true,
+          sidebarDepth: 1, // 可选的，默认值是 2
           prefix: 'stories/',
           children: [
             '雪山凌狐的开源故事',
-            '众里寻她千百度之DolphinScheduler',
-            '轻编程与CRMEB打通版的故事',
-            'DolphinScheduler如何带领我走进开源的世界',
+            '众里寻她千百度之 DolphinScheduler',
+            '轻编程与 CRMEB 打通版的故事',
+            'DolphinScheduler 如何带领我走进开源的世界',
             '“我的一剂良药”之开源指北',
-            '要懂得舍得的UMS与JAP的故事',
-            '开源有魔力-DolphinScheduler和我的开源历程',
-            '感谢Apache DolphinScheduler，让我的青春永不褪色',
+            '要懂得舍得的 UMS 与 JAP 的故事',
+            '开源有魔力-DolphinScheduler 和我的开源历程',
+            '感谢 Apache DolphinScheduler，让我的青春永不褪色',
             '向微软官方贡献 @types 包',
             '开源社区实习记 - 我把 openEuler 移植到了 Windows WSL'
           ]
