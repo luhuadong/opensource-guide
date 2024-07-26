@@ -235,12 +235,5 @@ export default defineConfig({
             text: '为此页提供修改建议',
         },
 
-    },
-    vite: {
-        build: {
-            rollupOptions: {
-                external: ["vue/server-renderer", "vue"]
-            }
-        }
     }
 })
