@@ -94,17 +94,17 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
 
-  { avatar: './public/partners/OSCHINA.png', name: 'OSCHINA', org: 'www.oschina.net', orgLink: 'https://www.oschina.net'},
-  { avatar: './public/partners/deepin.png', name: 'Deepin', org: 'www.deepin.org/zh', orgLink: 'https://www.deepin.org/zh'},
-  { avatar: './public/partners/juejin.png', name: '掘金', org: 'juejin.cn', orgLink: 'https://juejin.cn'},
-  { avatar: './public/partners/sf.png', name: 'Segmentfault', org: 'segmentfault.com', orgLink: 'https://segmentfault.com'},
-  { avatar: './public/partners/agora.png', name: '声网', org: 'www.agora.io/cn', orgLink: 'https://www.agora.io/cn'},
-  { avatar: './public/partners/getui.png', name: '个推', org: 'www.getui.com', orgLink: 'https://www.getui.com'},
-  { avatar: './public/partners/pingcap.png', name: 'PingCAP', org: 'pingcap.com', orgLink: 'https://pingcap.com'},
-  { avatar: './public/partners/finclip.png', name: 'FinClip', org: 'mp.finogeeks.com', orgLink: 'https://mp.finogeeks.com'},
-  { avatar: './public/partners/msup.png', name: 'Msup', org: 'www.msup.com.cn', orgLink: 'https://www.msup.com.cn'},
-  { avatar: './public/partners/webank.png', name: '微众开源', org: 'gitee.com/ivan185682649', orgLink: 'https://gitee.com/ivan185682649'},
-  { avatar: './public/partners/kaiyuanshe.png', name: '开源社', org: 'kaiyuanshe.cn', orgLink: 'https://kaiyuanshe.cn'},
+  { avatar: '/partners/OSCHINA.png', name: 'OSCHINA', org: 'www.oschina.net', orgLink: 'https://www.oschina.net'},
+  { avatar: '/partners/deepin.png', name: 'Deepin', org: 'www.deepin.org/zh', orgLink: 'https://www.deepin.org/zh'},
+  { avatar: '/partners/juejin.png', name: '掘金', org: 'juejin.cn', orgLink: 'https://juejin.cn'},
+  { avatar: '/partners/sf.png', name: 'Segmentfault', org: 'segmentfault.com', orgLink: 'https://segmentfault.com'},
+  { avatar: '/partners/agora.png', name: '声网', org: 'www.agora.io/cn', orgLink: 'https://www.agora.io/cn'},
+  { avatar: '/partners/getui.png', name: '个推', org: 'www.getui.com', orgLink: 'https://www.getui.com'},
+  { avatar: '/partners/pingcap.png', name: 'PingCAP', org: 'pingcap.com', orgLink: 'https://pingcap.com'},
+  { avatar: '/partners/finclip.png', name: 'FinClip', org: 'mp.finogeeks.com', orgLink: 'https://mp.finogeeks.com'},
+  { avatar: '/partners/msup.png', name: 'Msup', org: 'www.msup.com.cn', orgLink: 'https://www.msup.com.cn'},
+  { avatar: '/partners/webank.png', name: '微众开源', org: 'gitee.com/ivan185682649', orgLink: 'https://gitee.com/ivan185682649'},
+  { avatar: '/partners/kaiyuanshe.png', name: '开源社', org: 'kaiyuanshe.cn', orgLink: 'https://kaiyuanshe.cn'},
   
 ]
 </script>
