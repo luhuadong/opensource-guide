@@ -15,13 +15,13 @@ hero:
 features:
     - title: 开源故事
       details: 听一听「过来人」们的经验和故事
-      link: /story/readme
+      link: /story/
     - title: Git 教程
       details: 一份简单易懂的 Git 入门指导教程
-      link: /git-tutorial/readme
+      link: /git-tutorial/
     - title: 如何加入我们
       details: 和我们一起继续完善「开源指北」
-      link: /joinus/readme
+      link: /joinus/
 ---
 
 ## 👋 嗨～ 欢迎来到开源的世界！
@@ -34,7 +34,7 @@ features:
 
 当然你也可以点击仓库文件列表中的不同目录和文件来阅读不同的章节，还可以在下方评论区参与讨论。
 
-如果你想在仓库内直接阅读，那不如就从 **[什么是开源](./guide/第一部分：初识开源/第%201%20小节：什么是开源.md)** 开始吧！
+如果你想在仓库内直接阅读，那不如就从 **[什么是开源](./guide/introduction/what-is.md)** 开始吧！
 
 **2. 在「开源指北」官方 Pages 中阅读**
 
@@ -48,7 +48,7 @@ features:
 
 #### 如何贡献
 
-可以通过提交 [Issue](https://gitee.com/gitee-community/opensource-guide/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0) 和 PR 的方式对「开源指北」做出贡献或是提出需求，更详尽的步骤可以参考[贡献指南](https://gitee.com/gitee-community/opensource-guide/blob/master/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.md)。
+可以通过提交 [Issue](https://gitee.com/gitee-community/opensource-guide/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0) 和 PR 的方式对「开源指北」做出贡献或是提出需求，更详尽的步骤可以参考[贡献指南](./CONTRIBUTE.md)。
 
 
 #### 加入编写者社群
@@ -83,7 +83,7 @@ features:
 
 —— 张亮，Apache ShardingSphere 创始人
 
-[点击查看更多开源大牛寄语](./comments/readme.md)
+[点击查看更多开源大牛寄语](./comments/)
 
 ### 支持社区/平台
 

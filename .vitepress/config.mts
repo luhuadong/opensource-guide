@@ -13,16 +13,16 @@ export default defineConfig({
             { text: '首页', link: '/' },
             {
                 text: '开源指北',
-                link: '/guide/readme.md',
+                link: '/guide/index',
             },
-            { text: '开源故事', link: '/story/readme' },
-            { text: '编写成员', link: '/members/readme' },
+            { text: '开源故事', link: '/story/index' },
+            { text: '编写成员', link: '/members/index' },
             {
                 text: '我也要贡献',
                 items: [
                     { text: '开源指北仓库', link: 'https://gitee.com/gitee-community/opensource-guide' },
                     { text: '贡献指南', link: '../CONTRIBUTE' },
-                    { text: '如何加入我们', link: '/joinus/readme' }
+                    { text: '如何加入我们', link: '/joinus/index' }
                 ]
             }
         ],
@@ -95,9 +95,8 @@ export default defineConfig({
                     ]
                 },
             ],
-        }
             // 开源故事
-            'story': [
+            '/story/': [
                 {
                     text: '开源故事',
 
