@@ -9,38 +9,38 @@ hero:
   actions:
     - theme: brand
       text: 我要投稿
-      link: https://gitee.com/gitee-community/opensource-guide/new/master/src/story/stories
+      link: https://gitee.com/gitee-community/opensource-guide/new/master/story/stories
 features:
   - title: 我与开源指北的故事
     details: By 雪山凌狐
-    link: /story/stories/雪山凌狐的开源故事
+    link: /story/stories/xueshanlinghu
   - title: 众里寻她千百度之 DolphinScheduler
     details: By CalvinKirs
-    link: /story/stories/众里寻她千百度之DolphinSchedule
+    link: /story/stories/DolphinScheduler-1
   - title: 轻编程与 CRMEB 打通版的故事
     details: By 轻编程
-    link: /story/stories/轻编程与CRMEB打通版的故事
+    link: /story/stories/CRMEB
   - title: DolphinScheduler 如何带领我走进开源的世界
     details: By 陈兴春
-    link: /story/stories/DolphinScheduler如何带领我走进开源的世界
+    link: /story/stories/DolphinScheduler-2
   - title: “我的一剂良药”之开源指北
     details: By 西狩
-    link: /story/stories/“我的一剂良药”之开源指
+    link: /story/stories/osguide
   - title: 要懂得舍得的 UMS 与 JAP 的故事
     details: By 要懂得舍得
-    link: /story/stories/要懂得舍得的UMS与JAP的故事
+    link: /story/stories/UMS&JAP
   - title: 开源有魔力-DolphinScheduler 和我的开源历程
     details: By 鲍亮
-    link: /story/stories/开源有魔力-DolphinScheduler和我的开源历程
+    link: /story/stories/DolphinScheduler&myself
   - title: 感谢 Apache DolphinScheduler，让我的青春永不褪色
     details: By 李岗
-    link: /story/stories/感谢Apache DolphinScheduler，让我的青春永不褪
+    link: /story/stories/thankstoDolphinScheduler
   - title: 向微软官方贡献 @types 包
     details: By 杨俊宁
-    link: /story/stories/向微软官方贡献 @types 包
+    link: /story/stories/@typesforMS
   - title: 开源社区实习记：我把 openEuler 移植到了 Windows WSL
     details: By 王海涛
-    link: /story/stories/开源社区实习记 - 我把 openEuler 移植到了 Windows WSL
+    link: /story/stories/openEulertoWindowsWSL
 
 ---
 
@@ -55,7 +55,7 @@ features:
    - 除以上内容之外，也欢迎为开源小白写上一句鼓励的话语（可选填，非必要内容）。
 
 2. 投稿方式：  
-   - 快捷入口 > [点我投稿故事](https://gitee.com/gitee-community/opensource-guide/new/master/src/story/stories)
+   - 快捷入口 > [点我投稿故事](https://gitee.com/gitee-community/opensource-guide/new/master/story/stories)
 
 3. 注意  
    - 标题格式：`ID |项目-参与贡献的项目名.md`，例如：`子知鱼否|项目-开源指北.md`。

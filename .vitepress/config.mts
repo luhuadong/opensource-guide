@@ -33,84 +33,85 @@ export default defineConfig({
                 {
                     text: '初识开源',
                     items: [
-                        { text: '什么是开源', link: '/guide/第一部分：初识开源/第 1 小节：什么是开源' },
-                        { text: '开源与个人技术成长', link: '/guide/第一部分：初识开源/第 2 小节：开源与个人技术成长' },
-                        { text: '如何判断一个项目是否是开源的', link: '/guide/第一部分：初识开源/第 3 小节：如何判断一个项目是否是开源的' },
-                        { text: '关于开源基金会', link: '/guide/第一部分：初识开源/第 4 小节：关于开源基金会' },
-                        { text: '有关开源的常见误区', link: '/guide/第一部分：初识开源/第 5 小节：有关开源的常见误区' },
-                        { text: '常见文件认识', link: '/guide/第一部分：初识开源/第 6 小节：常见文件认识' },
-                        { text: '企业视角看待开源', link: '/guide/第一部分：初识开源/第 7 小节：企业视角看待开源' },
-                        { text: '开源发展趋势', link: '/guide/第一部分：初识开源/第 8 小节：开源发展趋势' },
+                        { text: '什么是开源', link: '/guide/introduction/what-is' },
+                        { text: '开源与个人技术成长', link: '/guide/introduction/personal-growth' },
+                        { text: '如何判断一个项目是否是开源的', link: '/guide/introduction/determine' },
+                        { text: '关于开源基金会', link: '/guide/introduction/foundations' },
+                        { text: '有关开源的常见误区', link: '/guide/introduction/misconceptions' },
+                        { text: '常见文件认识', link: '/guide/introduction/common-files' },
+                        { text: '企业视角看待开源', link: '/guide/introduction/enterprise-perspective' },
+                        { text: '开源发展趋势', link: '/guide/introduction/trends' },
                     ]
                 },
                 {
                     text: '学习和使用开源项目',
                     items: [
-                        { text: '如何找到适合自己学习和使用的开源项目', link: '/guide/第二部分：学习和使用开源项目/第 1 小节：如何找到适合自己学习和使用的开源项目' },
-                        { text: '开源项目的源代码该怎么读', link: '/guide/第二部分：学习和使用开源项目/第 2 小节：开源项目的源代码该怎么读' },
-                        { text: '认识开源许可证', link: '/guide/第二部分：学习和使用开源项目/第 3 小节：认识开源许可证' },
-                        { text: '开源中的赞赏文化', link: '/guide/第二部分：学习和使用开源项目/第 4 小节：开源中的赞赏文化' },
-                        { text: '如何找到最强开源项目', link: '/guide/第二部分：学习和使用开源项目/第 5 小节：如何找到最强开源项目' },
+                        { text: '如何找到适合自己学习和使用的开源项目', link: '/guide/learning-and-using/suitable-projects' },
+                        { text: '开源项目的源代码该怎么读', link: '/guide/learning-and-using/read-code' },
+                        { text: '认识开源许可证', link: '/guide/learning-and-using/licenses' },
+                        { text: '开源中的赞赏文化', link: '/guide/learning-and-using/appreciation' },
+                        { text: '如何找到最强开源项目', link: '/guide/learning-and-using/find-projects' },
                     ]
                 },
                 {
                     text: '尝试参与开源',
                     items: [
-                        { text: '开源项目中的不同角色', link: '/guide/第三部分：尝试参与开源/第 1 小节：开源项目中的不同角色' },
-                        { text: '个人为什么要参与开源贡献', link: '/guide/第三部分：尝试参与开源/第 2 小节：个人为什么要参与开源贡献' },
-                        { text: '企业为什么要参与开源', link: '/guide/第三部分：尝试参与开源/第 3 小节：企业为什么要参与开源' },
-                        { text: '可以用哪些方式参与开源', link: '/guide/第三部分：尝试参与开源/第 4 小节：可以用哪些方式参与开源' },
-                        { text: '如何找到适合的项目进行贡献', link: '/guide/第三部分：尝试参与开源/第 5 小节：如何找到适合的项目进行贡献' },
-                        { text: '提交第一个 Issue', link: '/guide/第三部分：尝试参与开源/第 6 小节：提交第一个 Issue' },
-                        { text: '提交第一个 Pull Request', link: '/guide/第三部分：尝试参与开源/第 7 小节：提交第一个 Pull Request' },
-                        { text: '如何成为一个项目的核心贡献者', link: '/guide/第三部分：尝试参与开源/第 8 小节：如何成为一个项目的核心贡献者' },
-                        { text: '开源项目的贡献准则和贡献者公约', link: '/guide/第三部分：尝试参与开源/第 9 小节：开源项目的贡献准则和贡献者公约' },
+                        { text: '开源项目中的不同角色', link: '/guide/participating/roles' },
+                        { text: '个人为什么要参与开源贡献', link: '/guide/participating/why-individuals' },
+                        { text: '企业为什么要参与开源', link: '/guide/participating/why-enterprises' },
+                        { text: '可以用哪些方式参与开源', link: '/guide/participating/ways' },
+                        { text: '如何找到适合的项目进行贡献', link: '/guide/participating/find' },
+                        { text: '提交第一个 Issue', link: '/guide/participating/first-issue' },
+                        { text: '提交第一个 Pull Request', link: '/guide/participating/first-pull-request' },
+                        { text: '如何成为一个项目的核心贡献者', link: '/guide/participating/core-contributor' },
+                        { text: '开源项目的贡献准则和贡献者公约', link: '/guide/participating/guidelines' },
                     ]
                 },
                 {
                     text: '启动自己的开源项目',
                     items: [
-                        { text: '有了开源的想法后从何开始', link: '/guide/第四部分：启动自己的开源项目/第 1 小节：有了开源的想法后从何开始' },
-                        { text: '为开源项目建立良好的基础', link: '/guide/第四部分：启动自己的开源项目/第 2 小节：为开源项目建立良好的基础' },
-                        { text: '开源许可证的应用', link: '/guide/第四部分：启动自己的开源项目/第 3 小节：开源许可证的应用' },
-                        { text: '为自己的开源项目建立贡献准则', link: '/guide/第四部分：启动自己的开源项目/第 4 小节：为自己的开源项目建立贡献准则' },
-                        { text: '开源项目的维护和管理', link: '/guide/第四部分：启动自己的开源项目/第 5 小节：开源项目的维护和管理' },
-                        { text: 'CONTRIBUTING 编写', link: '/guide/第四部分：启动自己的开源项目/第 6 小节：CONTRIBUTING 编写' },
+                        { text: '有了开源的想法后从何开始', link: '/guide/starting-your-own/where-to-start' },
+                        { text: '为开源项目建立良好的基础', link: '/guide/starting-your-own/laying-foundation' },
+                        { text: '开源许可证的应用', link: '/guide/starting-your-own/applying-licenses' },
+                        { text: '为自己的开源项目建立贡献准则', link: '/guide/starting-your-own/establishing-guidelines' },
+                        { text: '开源项目的维护和管理', link: '/guide/starting-your-own/maintaining-and-managing' },
+                        { text: 'CONTRIBUTING 编写', link: '/guide/starting-your-own/writing-contributing' },
                     ]
                 },
                 {
                     text: '开源治理',
                     items: [
-                        { text: '个人维护和建立社区，两者如何选择', link: '/guide/第五部分：开源治理/第 1 小节：个人维护和建立社区，两者如何选择' },
-                        { text: '打造开源社区', link: '/guide/第五部分：开源治理/第 2 小节：打造开源社区' },
-                        { text: '开源项目的常见治理架构', link: '/guide/第五部分：开源治理/第 3 小节：开源项目的常见治理架构' },
-                        { text: '确保开源代码质量的几个要点', link: '/guide/第五部分：开源治理/第 4 小节：确保开源代码质量的几个要点' },
+                        { text: '个人维护和建立社区，两者如何选择', link: '/guide/governance/individual-or-community' },
+                        { text: '打造开源社区', link: '/guide/governance/building-community' },
+                        { text: '开源项目的常见治理架构', link: '/guide/governance/structures' },
+                        { text: '确保开源代码质量的几个要点', link: '/guide/governance/key-points' },
                     ]
                 },
                 {
                     text: '有关开源的其他问题',
                     items: [
-                        { text: '怎样在本职工作和开源项目间做好平衡', link: '/guide/第六部分：其他问题/第 1 小节：怎样在本职工作和开源项目间做好平衡' },
-                        { text: '关于开源项目的商业化', link: '/guide/第六部分：其他问题/第 2 小节：关于开源项目的商业化' },
+                        { text: '怎样在本职工作和开源项目间做好平衡', link: '/guide/others/balancing' },
+                        { text: '关于开源项目的商业化', link: '/guide/others/commercializing' },
                     ]
                 },
             ],
+        }
             // 开源故事
-            '/story/': [
+            'story': [
                 {
                     text: '开源故事',
 
                     items: [
-                        { text: '雪山凌狐的开源故事', link: '/story/stories/雪山凌狐的开源故事' },
-                        { text: '众里寻她千百度之DolphinScheduler', link: '/story/stories/众里寻她千百度之DolphinScheduler' },
-                        { text: '轻编程与CRMEB打通版的故事', link: '/story/stories/轻编程与CRMEB打通版的故事' },
-                        { text: 'DolphinScheduler如何带领我走进开源的世界', link: '/story/stories/DolphinScheduler如何带领我走进开源的世界' },
-                        { text: '“我的一剂良药”之开源指北', link: '/story/stories/“我的一剂良药”之开源指北' },
-                        { text: '要懂得舍得的UMS与JAP的故事', link: '/story/stories/要懂得舍得的UMS与JAP的故事' },
-                        { text: '开源有魔力-DolphinScheduler和我的开源历程', link: '/story/stories/开源有魔力-DolphinScheduler和我的开源历程' },
-                        { text: '感谢Apache DolphinScheduler，让我的青春永不褪色', link: '/story/stories/感谢Apache DolphinScheduler，让我的青春永不褪色' },
-                        { text: '向微软官方贡献 @types 包', link: '/story/stories/向微软官方贡献 @types 包' },
-                        { text: '开源社区实习记 - 我把 openEuler 移植到了 Windows WSL', link: '/story/stories/开源社区实习记 - 我把 openEuler 移植到了 Windows WSL' },
+                        { text: '雪山凌狐的开源故事', link: '/story/stories/xueshanlinghu' },
+                        { text: '众里寻她千百度之DolphinScheduler', link: '/story/stories/DolphinScheduler-1' },
+                        { text: '轻编程与CRMEB打通版的故事', link: '/story/stories/CRMEB' },
+                        { text: 'DolphinScheduler如何带领我走进开源的世界', link: '/story/stories/DolphinScheduler-2' },
+                        { text: '“我的一剂良药”之开源指北', link: '/story/stories/osguide' },
+                        { text: '要懂得舍得的UMS与JAP的故事', link: '/story/stories/UMS&JAP' },
+                        { text: '开源有魔力-DolphinScheduler和我的开源历程', link: '/story/stories/DolphinScheduler&myself' },
+                        { text: '感谢Apache DolphinScheduler，让我的青春永不褪色', link: '/story/stories/thankstoDolphinScheduler' },
+                        { text: '向微软官方贡献 @types 包', link: '/story/stories/@typesforMS' },
+                        { text: '开源社区实习记 - 我把 openEuler 移植到了 Windows WSL', link: '/story/stories/openEulertoWindowsWSL' },
                     ]
                 },
             ],
@@ -214,7 +215,7 @@ export default defineConfig({
 
         footer: {
             message: '开源指北 - 一份给开源新手的保姆级开源百科 - 采用 CC-BY-SA-4.0 进行许可 | 感谢每一位参与的开发者',
-            copyright: 'Copyright © 2019-present OSCHINA'
+            copyright: 'Copyright © 2019 - Present OSCHINA'
         },
 
         socialLinks: [
@@ -231,7 +232,7 @@ export default defineConfig({
         },
 
         editLink: {
-            pattern: 'https://gitee.com/gitee-community/opensource-guide/tree/master/src/:path',
+            pattern: 'https://gitee.com/gitee-community/opensource-guide/blob/master/guide/:path',
             text: '为此页提供修改建议',
         },
 

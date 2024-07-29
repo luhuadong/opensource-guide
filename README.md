@@ -2,17 +2,8 @@
 
 ### 👋 嗨～ 欢迎来到开源的世界
 
-「开源指北」项目是由 Gitee 发起，邀请全体开源爱好者共同参与的**开源百科编写项目**。目前 1.0 版本已经上线，你可以通过以下两种方式阅读：
+「开源指北」项目是由 Gitee 发起，邀请全体开源爱好者共同参与的**开源百科编写项目**。目前 2.0 版本已经上线，你可以通过「开源指北」官方网站中阅读：<https://gitee.com/opensource-guide/>。
 
-1. 在仓库内直接阅读
-
-如果你想在仓库内直接阅读，那不如就从 **[什么是开源](https://gitee.com/gitee-community/opensource-guide/blob/master/guide/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%9A%E5%88%9D%E8%AF%86%E5%BC%80%E6%BA%90/%E7%AC%AC%201%20%E5%B0%8F%E8%8A%82%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%80%E6%BA%90.md#)** 开始吧！
-
-1. 在「开源指北」官方 Pages 中阅读
-
-我们为了让阅读体验更加友好，还给「开源指北」建立了静态页面，该页面还支持了 PWA，Android 系统的用户还可以把开源指北添加在桌面上，能够让你随时随地的阅读。点击链接即可享受更轻量的阅读体验：<https://gitee.com/opensource-guide/>
-
-> 仓库内容始终为最新内容，官方 Pages 的内容会定期与仓库内容同步。
 
 ### 🧩 我们需要你的贡献
 
@@ -24,11 +15,6 @@
 
 可以通过提交 [Issue](https://gitee.com/gitee-community/opensource-guide/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0) 和 PR 的方式对「开源指北」做出贡献或是提出需求，更详尽的步骤可以参考[贡献指南](./CONTRIBUTE.md)。
 
-#### 加入编写者社群
-
-如果你想和众多开源爱好者一起聊开源，添加 Gitee 小助手（gitee2013），备注「开源指北」，拉你入群。
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0712/212657_b00725ef_1899542.png "150-小助手微信.png")  
 
 ### 👩‍👩‍👧‍👦 审校专家团队
 
