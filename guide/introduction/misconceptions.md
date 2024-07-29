@@ -19,15 +19,15 @@ permalink: /guide/introduction/misconceptions
 
 但这并不意味着开源项目就不能收费，例如，你可以提供免费的软件和收费的服务，或者在应用市场提供收费的软件以方便用户下载。总之，只要用户愿意买，你就可以卖。
 
-参见 [销售自由软件](https://www.gnu.org/philosophy/selling.zh-cn.html) 以及 [关于开源项目的商业化](../第六部分：其他问题/第%202%20小节：关于开源项目的商业化.md)。
+参见 [销售自由软件](https://www.gnu.org/philosophy/selling.zh-cn.html) 以及 [关于开源项目的商业化](/guide/others/commercializing)。
 
 ### OSI 组织与 OSI 网络体系结构
 
-OSI 组织一般指的是开放源代码促进会（Open Source Initiative），于1998年2月创建，是一个旨在推动开源软件发展的非盈利组织。
+OSI 组织一般指的是开放源代码促进会（Open Source Initiative），于 1998 年 2 月创建，是一个旨在推动开源软件发展的非盈利组织。
 
-OSI 网络体系结构（Open Systems Interconnection）是由国际标准化组织（ISO）提出和定义的计算机网络的分层、各层协议和层间接口的集合。这个模型把网络通信的工作分为7层，分别是物理层、数据链路层、网络层、传输层、会话层，表示层和应用层。也就是我们平时常说的 OSI 7 层网络模型。
+OSI 网络体系结构（Open Systems Interconnection）是由国际标准化组织（ISO）提出和定义的计算机网络的分层、各层协议和层间接口的集合。这个模型把网络通信的工作分为 7 层，分别是物理层、数据链路层、网络层、传输层、会话层，表示层和应用层。也就是我们平时常说的 OSI 7 层网络模型。
 
-在各个行业领域，缩写重复是很常见的事情，如果不加以区分，很容易造成理解上的误会。因此，请注意：OSI 组织与 OSI 网络体系结构，两者的关系就像是 Java 和 JavaScript 、蔺相如与司马相如一样，并没有太大关系。
+在各个行业领域，缩写重复是很常见的事情，如果不加以区分，很容易造成理解上的误会。因此，请注意：OSI 组织与 OSI 网络体系结构，两者的关系就像是 Java 和 JavaScript、蔺相如与司马相如一样，并没有太大关系。
 
 ### 只有“大牛”才能参与开源
 
@@ -57,7 +57,7 @@ OSI 网络体系结构（Open Systems Interconnection）是由国际标准化组
 
 **项目的开源并不意味作者没有版权/著作权。**
 
-在使用开源软件时，您需要**严格遵守**项目的开源许可证（又称开源许可协议）。开源许可证是对开源软件著作人版权的保护，在开放源代码的同时，也确保了开源软件的权利是受到保护的。例如：GPL、MIT、BSD 等比较流行的开源许可证允许使用者修改源代码，但是需要保留版权信息。又例如，[Copyleft 许可证](../第二部分：学习和使用开源项目/第%203%20小节：认识开源许可证.md#2copyleft-许可证) 要求修改后的代码不得闭源。
+在使用开源软件时，您需要**严格遵守**项目的开源许可证（又称开源许可协议）。开源许可证是对开源软件著作人版权的保护，在开放源代码的同时，也确保了开源软件的权利是受到保护的。例如：GPL、MIT、BSD 等比较流行的开源许可证允许使用者修改源代码，但是需要保留版权信息。又例如，[Copyleft 许可证](/guide/learning-and-using/licenses) 要求修改后的代码不得闭源。
 
 ### 开源项目不能转为闭源
 
@@ -75,15 +75,15 @@ OSI 网络体系结构（Open Systems Interconnection）是由国际标准化组
 
 从项目规范性来看，只要开放源代码就可以认为是广义的开源，而狭义的开源在广义的开源基础上，增加了一定限制——需要符合国际社区公认的规范和定义。
 
-- 广义的开源，使用非国际社区公认的开源许可证，或者没有采用任何开源许可证，**只要开放源代码**就属于开源项目。
-- 狭义的开源，除了开放源代码以外，还需要**符合一些国际社区公认的定义**（比如：采用 OSI 批准的开源许可证），满足开源的一些条件才是真正意义的开源。我们平时说开源社区，一般指的是狭义的开源。
+* 广义的开源，使用非国际社区公认的开源许可证，或者没有采用任何开源许可证，**只要开放源代码**就属于开源项目。
+* 狭义的开源，除了开放源代码以外，还需要**符合一些国际社区公认的定义**（比如：采用 OSI 批准的开源许可证），满足开源的一些条件才是真正意义的开源。我们平时说开源社区，一般指的是狭义的开源。
 
 从项目完整性来看，狭义的开源一般对项目完整性有严格的要求。而广义的开源，对项目的完整性要求较为宽松。
 
-- 狭义的开源，**对项目完整性有严格的要求**，比如：公开代码完整、可以编译和再发行、符合国际开源规范、拥有开源许可证、维护和治理开源社区，以及接受贡献（允许外部贡献）等。
-- 广义的开源，不严格要求狭义的开源中提及的一系列约束，**完整性要求较为宽松**，可以忽略上述提到的各类要求，按照自己的想法来维护项目。
+* 狭义的开源，**对项目完整性有严格的要求**，比如：公开代码完整、可以编译和再发行、符合国际开源规范、拥有开源许可证、维护和治理开源社区，以及接受贡献（允许外部贡献）等。
+* 广义的开源，不严格要求狭义的开源中提及的一系列约束，**完整性要求较为宽松**，可以忽略上述提到的各类要求，按照自己的想法来维护项目。
 
-此外，需要明确的一点是：**OSI 批准的许可证并不是划分是不是开源项目的唯一标准**。 OSI 只是国际开源许可证的一个组织机构，由于被其认可的开源许可证较为清晰严谨，所以一般国际认可的许可证都需要经过 OSI 批准。但并不是说只有 OSI 才能制定和批准开源许可证，一个本地的开源项目也可以使用或者定义自己的开源许可证。比如：我国第一个被 OSI 批准的**木兰许可证**，在被批准前也只是木兰本地的开源协议。**虽然木兰许可证在此之前并没有被 OSI 批准，但是基于其规范性和完整性而言，都具备狭义上开源的标准。因此，采用木兰许可证的项目不管是在被批准前还是批准后，都属于狭义上的开源。**
+此外，需要明确的一点是：**OSI 批准的许可证并不是划分是不是开源项目的唯一标准**。OSI 只是国际开源许可证的一个组织机构，由于被其认可的开源许可证较为清晰严谨，所以一般国际认可的许可证都需要经过 OSI 批准。但并不是说只有 OSI 才能制定和批准开源许可证，一个本地的开源项目也可以使用或者定义自己的开源许可证。比如：我国第一个被 OSI 批准的**木兰许可证**，在被批准前也只是木兰本地的开源协议。**虽然木兰许可证在此之前并没有被 OSI 批准，但是基于其规范性和完整性而言，都具备狭义上开源的标准。因此，采用木兰许可证的项目不管是在被批准前还是批准后，都属于狭义上的开源。**
 
 最后总结一下，“半开源”和“伪开源”都违反了狭义上开源的其中某些条款，因此，不算标准的开源形式。但因为贡献出源码，所以也可以认为属于广义的开源。广义的开源和狭义的开源只是概念上的区分，而广义的开源项目如果符合狭义的开源标准，也可以转变为狭义的开源。在秉承“吃水不忘挖井人”的优良传统下，哪怕“井”挖的不够好不够深，也要吃水怀恩，因此，“半开源”和“伪开源”可以被认为广义的开源。
 
@@ -123,7 +123,7 @@ OSI 网络体系结构（Open Systems Interconnection）是由国际标准化组
 
 虽然很多开发者早已知道多数常用编程语言支持中文命名标识符并付诸实践，但仍然常见“如果项目开源的话还是要用英文命名”的说法。2007 年 Python3 决定支持非 ASCII 码标识符的 [增强建议书](https://www.python.org/dev/peps/pep-3131/) 中指出：
 
-> A developer wishing to make a library widely available needs to make a number of explicit choices (such as publication, licensing, language of documentation, and language of identifiers). It should always be the choice of the author to make these decisions - not the choice of the language designers.
+> A developer wishing to make a library widely available needs to make a number of explicit choices (such as publication, licensing, language of * cumentation, and language of identifiers). It should always be the choice of the author to make these decisions - not the choice of the language designers.
 >
 > 希望使库广泛可用的开发人员需要做出许多抉择（例如发布、许可、用何种语言编写文档和命名标识符）。决定权都应在项目作者而不是语言设计者手中。
 
@@ -135,28 +135,17 @@ OSI 网络体系结构（Open Systems Interconnection）是由国际标准化组
 
 下面是一些常见的疑虑：
 
-- 用中文命名出了问题怎么办？
-
+* 用中文命名出了问题怎么办？
   像任何技术一样，在使用推广中必然有各种问题出现。如果是编程语言或是开源框架对中文命名的支持问题，可以向它们的开发组反映，往往能得到解决，先例有 [Vue.js](https://github.com/vuejs/vue/issues/6971)、[Hibernate](https://hibernate.atlassian.net/browse/HHH-13383)、[pip](https://github.com/pypa/pip/issues/8342) 等等。另外，也可在开源中国社区求助，协力解决。毕竟，鲁迅先生说过：“走的人多了，也便成了路”。
-
-- 框架限制必须用英文怎么办？
-
+* 框架限制必须用英文怎么办？
   比如 JavaBeans 规范通常要求使用 set/get 前缀。即便如此，仍然可以使用中英混合的命名，只要开发者感觉更易读即可，比如 `getCostOutcomeRatioByClientGroup` 相比 `get投入产出比By客户组`。类似地，一些常用的英文术语或简写，如果没想到合适中文对应术语，大可以暂时保留这部分英文命名。
-
-- 中英文混输的效率会低吗？
-
+* 中英文混输的效率会低吗？
   大多数情况下，读代码的时间远超过写代码的时间。即便仅仅讨论写代码的效率，也要考虑推敲英文命名甚至查字典的时间，何况很多领域业务相关命名连恰当英文表达都很难找到。另外，随着中文命名实践的普及，相应的 IDE 辅助功能也在不断涌现，比如 [JetBrains](https://gitee.com/tuchg/ChinesePinyin-CodeCompletionHelper) 和 [VS Code](https://gitee.com/Program-in-Chinese/vscode_Chinese_Input_Assistant) 的中文代码补全插件。
-
-- 用拼音效果一样吗？
-
-  从代码可读性看，使用拼音不如中文。比如 `shipin`，就有`食品/视频/饰品`等等理解。即便可以根据代码上下文进行猜测，无疑也是额外的负担。拼音缩写的可读性更差，像 `xmjl`，到底是姓名记录、项目奖励、项目监理还是项目经理呢？如果需要额外中文注释才能避免误解，还不如将直接将中文注释的内容用于命名。输入效率来说，输入全部拼音的速度也往往不如输入中文，因为大多数中文词语不需输入全部拼音即可选词。更不用说用拼音命名更容易出现细节错误如翘平舌、前后鼻音等等。
-
-- 项目已经是英文命名的，没法转了？
-
+* 用拼音效果一样吗？
+  从代码可读性看，使用拼音不如中文。比如 `shipin`，就有 `食品/视频/饰品` 等等理解。即便可以根据代码上下文进行猜测，无疑也是额外的负担。拼音缩写的可读性更差，像 `xmjl`，到底是姓名记录、项目奖励、项目监理还是项目经理呢？如果需要额外中文注释才能避免误解，还不如将直接将中文注释的内容用于命名。输入效率来说，输入全部拼音的速度也往往不如输入中文，因为大多数中文词语不需输入全部拼音即可选词。更不用说用拼音命名更容易出现细节错误如翘平舌、前后鼻音等等。
+* 项目已经是英文命名的，没法转了？
   如果某一部分的英文命名经常在开发组中引起误解或者新手甚至自己也难以看懂，可以尝试从这部分先开始中文化，看看效果后再逐步在其他部分采用。与任何未曾尝试过的技术一样，渐进增量式的应用可以减小风险、在使用中逐渐适应。
-
-- 用了中文命名之后，怎样为国外用户服务？
-
+* 用了中文命名之后，怎样为国外用户服务？
   如果需要面向国外用户，首先要对用户界面和使用文档进行国际化。如果是库，用户界面就是 API。技术上，可以开发中英两套 API。如果想更进一步，鼓励国外开发者参与开发项目，当然可以逐步将命名英文化，但也应综合考虑是否值得。
 
 总之，澄清这个误区的目的，绝不是排斥英文命名，而是让更多开源作者意识到可以视项目性质和自身情况因地制宜、具体情况具体分析，灵活选择何时、何处进行中文命名实践，也希望中文开源社区能以开放宽容的心态看待中文命名标识符这一并不新的“新技术”。
@@ -164,18 +153,18 @@ OSI 网络体系结构（Open Systems Interconnection）是由国际标准化组
 ### 做贡献的唯一方法是通过编写代码
 
 有些人认为只有写代码是为开源项目做贡献，其实并不只有编写代码，还有：
+
 1. 帮助项目写文档
-2. 查找和报告bug
+2. 查找和报告 bug
 3. 捐赠和支持项目
 
 除此之外，还有很多
 
 ## 参考资料
 
-- [走出误区 正确认识开源](https://searchvirtual.techtarget.com.cn/10-20427/)
-
-- [What is open source?](https://opensource.com/resources/what-open-source)
+* [走出误区 正确认识开源](https://searchvirtual.techtarget.com.cn/10-20427/)
+* [What is open source?](https://opensource.com/resources/what-open-source)
 
 ## 本部分内容贡献者
 
-[YFun](https://gitee.com/trytoget)、[吴烜](https://gitee.com/zhishi)、[菜菜STWhite](https://gitee.com/daaaaaaaaaaa)、[雪山凌狐](https://gitee.com/xueshanlinghu)、[和耳朵](https://gitee.com/he-erduo)、[jack960330](https://gitee.com/jack960330)、[哦是吗](https://gitee.com/yougood6)、[taotieren](https://gitee.com/taotieren)、[Sooxin](https://gitee.com/hellosooxin)、[西狩](https://gitee.com/lihuimingxs)、[ouuan](https://gitee.com/ouuan)、[锟铻宝剑](https://gitee.com/python2008)、[阿基米东](https://gitee.com/luhuadong)
+[YFun](https://gitee.com/trytoget)、[吴烜](https://gitee.com/zhishi)、[菜菜 STWhite](https://gitee.com/daaaaaaaaaaa)、[雪山凌狐](https://gitee.com/xueshanlinghu)、[和耳朵](https://gitee.com/he-erduo)、[jack960330](https://gitee.com/jack960330)、[哦是吗](https://gitee.com/yougood6)、[taotieren](https://gitee.com/taotieren)、[Sooxin](https://gitee.com/hellosooxin)、[西狩](https://gitee.com/lihuimingxs)、[ouuan](https://gitee.com/ouuan)、[锟铻宝剑](https://gitee.com/python2008)、[阿基米东](https://gitee.com/luhuadong)

@@ -65,9 +65,9 @@ New BSD License 和 Simplified BSD License 的主要区别是，后者忽略了�
 
 MIT 是和 BSD 一样宽松的许可协议，作者只想保留版权，而无任何其他限制。也就是说，你必须在你的发行版里包含原许可协议的声明，无论你是以二进制发布的还是以源代码发布的。
 
-* 你可以使用，复制和修改软件
-* 你可以免费使用软件或出售
-* 唯一的限制是，它是必须附有 MIT 授权协议
+- 你可以使用，复制和修改软件
+- 你可以免费使用软件或出售
+- 唯一的限制是，它是必须附有 MIT 授权协议
 
 商业软件可以使用，也可以修改 MIT 协议的代码，甚至可以出售 MIT 协议的代码。
 
@@ -146,18 +146,18 @@ CC 许可证不是一个单独的许可证，而是包含了多个可供选择�
 
 以上四个条款有多种组合方式，包括：
 
--   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh)
--   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
--   [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.zh)
--   [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
--   [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
--   [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh)
+- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
+- [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.zh)
+- [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)
+- [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
 除此之外，还有 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.zh) 许可证，使用该许可证代表作者放弃了关于作品的一切权利：
 
->   在作品上适用该文本的人已经将作品贡献至公共领域，在法律允许的范围，放弃所有他在全世界范围内基于著作权法对作品享有的权利，包括所有相关权利和邻接权利。
+> 在作品上适用该文本的人已经将作品贡献至公共领域，在法律允许的范围，放弃所有他在全世界范围内基于著作权法对作品享有的权利，包括所有相关权利和邻接权利。
 >
->   你可以复制、修改、发行和表演本作品，甚至可用于商业性目的，都无需要求同意。
+> 你可以复制、修改、发行和表演本作品，甚至可用于商业性目的，都无需要求同意。
 
 #### Common Public License 1.0
 
@@ -190,7 +190,7 @@ Common 许可证有一些细节性的规定值得参考：
 
 ## 怎么选择开源许可证？
 
-可查看开源指北中 [**启动自己的开源项目/开源许可证的应用**](/guide/第四部分：启动自己的开源项目/第%203%20小节：开源许可证的应用.md) 部分
+可查看开源指北中 [**启动自己的开源项目/开源许可证的应用**](/guide/starting-your-own/applying-licenses) 部分
 
 图源阮一峰：如何选择开源许可证：
 
@@ -212,4 +212,3 @@ Common 许可证有一些细节性的规定值得参考：
 ## 本部分内容贡献者
 
 [gmaso](https://gitee.com/gmaso)、[雪山凌狐](https://gitee.com/xueshanlinghu)、[ORH](https://gitee.com/orh)、[麦健翔](https://gitee.com/maijianxiang)、[ouuan](https://gitee.com/ouuan)、[阿基米东](https://gitee.com/luhuadong)
-
