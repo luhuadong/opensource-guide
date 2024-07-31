@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /guide/第一部分：初识开源/第 1 小节：什么是开源/
+      link: /guide/introduction/what-is/
 
 features:
     - title: 开源故事
@@ -51,11 +51,6 @@ features:
 可以通过提交 [Issue](https://gitee.com/gitee-community/opensource-guide/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0) 和 PR 的方式对「开源指北」做出贡献或是提出需求，更详尽的步骤可以参考[贡献指南](./CONTRIBUTE.md)。
 
 
-#### 加入编写者社群
-
-如果你想和众多开源爱好者一起聊开源，添加 Gitee 小助手（gitee2013），备注「开源指北」，拉你入群。
-
-![Gitee 小助手微信](./images/wechat-qrcode-gitee2013.png "Gitee小助手微信.png")
 
 ### 开源寄语
 
